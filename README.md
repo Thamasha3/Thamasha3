@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Software Engineering undergraduate at NIBM Sri Lanka  
-- 💻 Passionate about Web & Mobile Application Development  
-- 📊 Interested in Data Warehousing & Power BI  
-- 🌱 Currently improving my skills in Java, Kotlin, and Full-Stack Development  
-- ⚡ Fun fact: I enjoy building real-world software projects  
+- Software Engineering undergraduate at NIBM Sri Lanka  
+- Passionate about Web & Mobile Application Development  
+- Interested in Data Warehousing & Power BI  
+- Currently improving my skills in Java, Kotlin, and Full-Stack Development  
+- Fun fact: I enjoy building real-world software projects  
 
 ---
 
